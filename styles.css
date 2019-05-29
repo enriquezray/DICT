@@ -1,0 +1,21 @@
+body
+{
+	background-color: lightblue;
+}
+div{
+		overflow:hidden;
+	}
+	div div{
+		float: left;
+		width: 150px;
+		border: 5px solid green;
+		padding: 10px;
+		margin: 5px; 
+		list-style:none;
+		cursor:pointer;
+
+	}
+	img{
+		width: 150px;
+		height: 150px;
+	}
